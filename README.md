@@ -1,0 +1,2 @@
+# wasmVodPlayer
+wasmPlayer是京东视频云web端的视频播放器，该播放器web sdk让您可以在支持WebAssembly的浏览器上播放H264\H265\AV1等编码格式的点播视频
